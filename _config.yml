@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: PipeChat Short Course 2023
 tagline: How To Build Your Own
-description: Quick Introduction to 2023 LLM environment: create your own document vector database
+description: Quick Introduction to 2023 LLM environment
 author: JG, Dave Rauchwerk
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
