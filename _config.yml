@@ -18,7 +18,7 @@ tagline: How To Build Your Own
 description: Quick Introduction to 2023 LLM environment: create your own document vector database
 author: JG, Dave Rauchwerk
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://johngage.github.io/class_one' # the base hostname & protocol for your site, e.g. http://example.com
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
