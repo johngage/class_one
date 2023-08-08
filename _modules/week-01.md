@@ -1,23 +1,23 @@
 ---
-title: Introduction to Java
+title: Introduction to Large Language Models, Vector Embeddings, and Chats
 ---
 
-Sep 28
+June 21
 : [Java & Git](#)
   : [1.1](#)
 
-Sep 29
+June 22
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
-Sep 30
+June 30
 : [Variables & Objects](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
+July 1
 : **Lab**{: .label .label-purple } [Intro to Java](#)
 
-Oct 2
+July 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
