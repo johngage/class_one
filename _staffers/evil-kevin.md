@@ -1,9 +1,9 @@
 ---
-name: Evil Kevin
-role: Teaching Assistant
-email: me@example.com
+name: Dave Rauchwerk
+role: Machine Learning and AI practicioner
+email: dbrauchwerk@gmail.com
 website: https://kevinl.info
 photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+I'm a chip and board designer, founder of several companies;
