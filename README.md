@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: class_one
 nav_exclude: true
 permalink: /:path/
 seo:
